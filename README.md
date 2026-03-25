@@ -21,8 +21,8 @@ Each full adder computes:
 - tb/tb_adder_4bit.v — testbench with 5 test cases
 
 ## Simulate it
-Run in EDA Playground (free, no install needed):
-[Open simulation](PASTE YOUR EDA PLAYGROUND LINK HERE)
+Run in EDA Playground no install needed:
+[Open simulation](https://www.edaplayground.com/x/e9yj)
 
 ## Test results
 | A  | B  | Cin | Sum | Cout |
