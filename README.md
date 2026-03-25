@@ -8,7 +8,7 @@ covering normal addition, carry-out, and overflow.
 
 ## How it works
 Four 1-bit full adders are chained together. The carry-out of 
-each feeds into the carry-in of the next — exactly like 
+each feeds into the carry-in of the next exactly like 
 carrying a 1 in long addition by hand.
 
 Each full adder computes:
